@@ -60,7 +60,7 @@ If you use Google Chrome/Chromium and have [uBlacklist installed](https://chrome
   
 6. Copy and paste this url 
 ```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
+https://raw.githubusercontent.com/block36underscore/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
 ``` 
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
@@ -86,7 +86,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
   
 8. Copy and paste this url 
 ```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
+https://raw.githubusercontent.com/block36underscore/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
 ``` 
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
@@ -97,7 +97,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 Since it was requested, I've added a list in HOSTS format for pi-hole/adguard or for use in your own operating system's hosts file.
 
 ```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
+https://raw.githubusercontent.com/block36underscore/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
 ```
 
 For use in your operating system, visit the url and copy-paste the contents inside your operating systems hosts file. 
